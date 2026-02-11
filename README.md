@@ -31,8 +31,5 @@ Simply enter your email and password in the respective fields and click on the "
 ## Contributing
 Contributions are welcome! If you wish to contribute to this project, please fork the repository and create a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 ## Contact
 For any inquiries or feedback, please reach out to: nog19@example.com
