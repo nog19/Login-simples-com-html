@@ -32,4 +32,4 @@ Simply enter your email and password in the respective fields and click on the "
 Contributions are welcome! If you wish to contribute to this project, please fork the repository and create a pull request.
 
 ## Contact
-For any inquiries or feedback, please reach out to: nog19@example.com
+For any inquiries or feedback, please reach out to: marcenogueiramartins@gmail.com
